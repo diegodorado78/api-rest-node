@@ -1,0 +1,3 @@
+npm i nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier -D
+nodemon index.js
+npm i @hapi/boom
